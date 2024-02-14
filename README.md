@@ -1,3 +1,3 @@
 # gamer-guide-
 
-top new games guides
+https://g7-gaming.netlify.app/
